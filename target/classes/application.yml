@@ -1,0 +1,19 @@
+server:
+  port: 8080
+  host: localhost
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: bookkeeping-assistant
+    password: secret
+camunda:
+  bpm:
+    job-execution:
+      enabled: false
+    admin-user:
+      id: admin
+      password: admin
+      firstName: Admin
+    filter:
+      create: All tasks

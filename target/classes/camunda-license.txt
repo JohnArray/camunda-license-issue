@@ -1,0 +1,3 @@
+--------------- BEGIN CAMUNDA BPM LICENSE KEY ---------------
+cJq9qIpvii/c/z5vs41Grfp5LH3G8RnEq0V8uyMrjqgxEELFRl4qLPcwR6XXt vtmioN6MEDK/nowjxuecmbx32ck6u5q4ZRwJfLljMVDur9cXULR/uvm2eVMVR BL8RAuA6RANWTtYgnVUWl/dAzDyLXjXoP7O0Ew9/27e+oU9aU=; rst_software_masters;2019-12-19
+--------------- END CAMUNDA BPM LICENSE KEY ---------------
